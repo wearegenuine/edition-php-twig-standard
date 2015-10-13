@@ -27,7 +27,7 @@
 	"prefer-stable": true,
 	"require": {
 		"php": ">=5.3.6",
-		"pattern-lab/core": "0.*",
+		"wearegenuine/core": "0.*",
 		"wearegenuine/patternengine-twig": "0.*",
 		"wearegenuine/styleguidekit-twig-default": "0.*",
 		"wearegenuine/starterkit-twig-base": "0.*"
